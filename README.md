@@ -7,7 +7,7 @@ real-time platform** that can run virtualized automation and protection applicat
 in the first place and potentially beyond). This platform is intended to host multi-provider applications.
 
 The project will encompass the following activities: 
-- Specifying the requirements to be fulfilled by the reference platform (see next slide)
+- Specifying the requirements to be fulfilled by the reference platform
 - Specifying the test procedures needed to assess the fulfillment of the requirements
 - Building the appropriate system(s) architecture(s) for the software platform and specifying requirements for
 hardware architecture
